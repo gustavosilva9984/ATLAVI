@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+.box-header{
+    background-image: linear-gradient(45deg,#a9f1df, #ffbbbb);
+    padding: 17px;
+    background-size: 140%;
+}
